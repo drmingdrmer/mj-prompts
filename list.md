@@ -16,3 +16,52 @@ image of mysterious ocean cave, in the style of anime art, fantastical ruins, da
 ![](thumbnails/indoor-colorful.png)
 
 Photo of a film studio. Indoors. Soft lighting. Shallow depth of field. Colorful room.
+
+
+![](thumbnails/fractal-tile.png)
+
+waters of rainbow fractal --tile --no watermark writing text --s 250
+
+![](thumbnails/fractal-tile-yellow-1.png)
+![](thumbnails/fractal-tile-yellow-2.png)
+![](thumbnails/fractal-tile-yellow-3.png)
+![](thumbnails/fractal-tile-yellow-4.png)
+![](thumbnails/fractal-tile-yellow-5.png)
+
+vividly colored fractal patterns in gray yellow and dark green --tile --s 250 
+
+
+<div style="background-image: url(./thumbnails/fractal-tile-yellow-5.png)">
+foo
+
+foo
+
+foo
+
+foo
+
+foo
+
+foo
+
+foo
+
+foo
+
+foo
+
+foo
+
+foo
+
+foo
+
+foo
+
+</div>
+
+
+![](thumbnails/painted-city-night.png)
+
+
+in a bright oil painted style, a night view of the city, with lots of lights and signs, people on the sidewalks, cars on the street, bright colors, reflections
