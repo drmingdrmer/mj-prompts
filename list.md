@@ -32,33 +32,47 @@ vividly colored fractal patterns in gray yellow and dark green --tile --s 250
 
 
 <div style="background-image: url(./thumbnails/fractal-tile-yellow-5.png)">
-foo
 
-foo
-
-foo
-
-foo
-
-foo
-
-foo
-
-foo
-
-foo
-
-foo
-
-foo
-
-foo
-
-foo
-
-foo
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
 </div>
+
+fractal fruit --tile
+
+![](thumbnails/fractal-tile-fruit-1.png)
+![](thumbnails/fractal-tile-fruit-2.png)
+![](thumbnails/fractal-tile-fruit-3.png)
+![](thumbnails/fractal-tile-fruit-4.png)
+
+<div style="background-image: url(./thumbnails/fractal-tile-fruit-1.webp)">
+
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+
+</div>
+
+<div style="background-image: url(./thumbnails/fractal-tile-fruit-2.webp)">
+
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+
+</div>
+
+<div style="background-image: url(./thumbnails/fractal-tile-fruit-3.webp)">
+
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+
+</div>
+
+<div style="background-image: url(./thumbnails/fractal-tile-fruit-4.webp)">
+
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+
+</div>
+
 
 
 ![](thumbnails/painted-city-night.png)
